@@ -1,3 +1,14 @@
+# Netflix 
+![image](https://github.com/user-attachments/assets/6b2b4543-afc5-4b93-a1ac-6a755ce7c9d4)
+![image](https://github.com/user-attachments/assets/c2f19b9e-3dcf-4ec5-8655-13f66e494469)
+![image](https://github.com/user-attachments/assets/78be7e65-cc08-4e6e-be8d-560f66d45325)
+![image](https://github.com/user-attachments/assets/7f2ebb24-15b8-4871-9fdb-38e5b368db5b)
+![image](https://github.com/user-attachments/assets/6fdfe440-aed0-428b-adaa-5972ae1e5451)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
