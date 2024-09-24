@@ -1,0 +1,33 @@
+.payment-details-conatiner {
+    width: 100%;
+    border-radius: 10px;
+    height: 80px;
+    padding: 10px;
+}
+
+.horizontal-line {
+    width: 100%;
+    height: 1px;
+    border: none;
+    background-color:  rgba(128, 128, 128, 0.4);
+}
+.eMevux {
+    display: none !important;
+}
+
+.FormField__FormFieldContentBox-sc-m9hood-1 {
+    flex-direction: column !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.dgrQDw {
+    display: inline-block !important;
+}
+
+.UserForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
